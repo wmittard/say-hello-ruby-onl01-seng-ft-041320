@@ -2,4 +2,4 @@ def say_hello(name)
   puts "Hello Gabriela!"
 end
 
-def say_hello
+def say_hello()
